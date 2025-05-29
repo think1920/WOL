@@ -7,7 +7,7 @@ This project turns your **ESP8266** board into a smart device that:
 - ⏰ Syncs time using **NTP**
 - ☁️ Fetches weather updates via **OpenWeatherMap API**
 
-Inspired by **[Tiratex/WakeOnLan](https://github.com/Tiratex/WakeOnLan)** and enhanced with real-time weather and system stats!
+Inspired by **[Tiratex/WakeOnLan](https://github.com/Tirarex/EspWOL)** and enhanced with real-time weather and system stats!
 
 ---
 
